@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class nesne {
+public class diziDuzenle {
     public static void main(String[] args) {
 
         System.out.println("Girilen bir dizinin elemanlarını ,sıralarını bozmadan yeni diziye aktaran program yazınız.\n" + //

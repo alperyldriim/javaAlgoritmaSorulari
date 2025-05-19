@@ -1,6 +1,6 @@
 package Algoritma;
 
-public class en_uzun_Sirali_dizi {
+public class enUzunSiraliDizi {
     public static void main(String[] args) {
         int[] A = {2 , 1 , 5 , 0 , 1 , 2 , 5 , 4} ;
         int son_indis = 0;
